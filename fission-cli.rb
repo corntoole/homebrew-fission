@@ -1,3 +1,5 @@
+require "./ipfs_requirement"
+
 class FissionCli < Formula
   desc "Deploy live from your laptop, and other web3 tricks for a web2 world"
   homepage "https://fission.codes"
